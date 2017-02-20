@@ -1,7 +1,7 @@
 {
-    "app_id" : "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "versioncode" : "2016",
+    "app_id" : "com.caasi.myapplication",
+    "appname": "Trege",
+    "versioncode" : "20170",
     "versionname" : "3.2.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
